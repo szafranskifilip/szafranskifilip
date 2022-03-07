@@ -21,6 +21,9 @@ BIO
 📫 Reach me: twitter.com/caneco
 ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
+[![Linkedin: Filip](https://img.shields.io/badge/-Filip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/szafranskifilip/)](https://www.linkedin.com/in/szafranskifilip/)
+[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
+
 <!--
 **szafranskifilip/szafranskifilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
