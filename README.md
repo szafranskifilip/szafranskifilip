@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Scientist specilizing in **Natural Language Processing, Machine Learning and Deep Learning**. Currently living and working in New York.
+I'm a Data Scientist specilizing in **Natural Language Processing, Machine Learning and Deep Learning**. Currently living and working in New York, but I'm willing to relocate or accept a remote position.
 
 Check out my last project -[Bitcoin sentiment analysis and its impact on the price change](https://github.com/szafranskifilip/bitcoin_sentiment_analysis).
 
