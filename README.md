@@ -1,8 +1,6 @@
-### Hi there 👋
+### Filip Szafranski👋
 
 Data Scientist with a robust background in e-commerce and expertise in leveraging SQL and Python for in-depth data analysis. Specializes in machine learning, particularly in natural language processing, to extract actionable insights from vast data sets. Former architect with a proven record of successful project management and problem-solving, adept at communicating complex data to diverse audiences. Excels in a collaborative environment, consistently delivering results in high-pressure situations.
-
-BIO
 
 - 🔭 I’m currently working on Natural Language Processing and Sentiment Analysis.
 - 🌱 I’m currently learning Time Series
