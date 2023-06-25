@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Scientist specilizing in **Natural Language Processing, Machine Learning and Deep Learning**. Currently living and working in New York, but I'm willing to relocate or accept a remote position.
-
-Check out my last project -[Bitcoin sentiment analysis and its impact on the price change](https://github.com/szafranskifilip/bitcoin_sentiment_analysis).
-
-My specialties include quickly learning new skills and programming languages, problem-solving. So far I have Python, Pandas, NumPy, SQL, Matplotlib&Seaborn, Requests, Beautiful Soup, scikit-learn, Keras, natural language processing, deep learning, and Git/GitHub under my belt. I've started learning, MongoDB, Django, and Google Studio.. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
-
-A big enthusiast of solving business problems with sentiment analysis. 
-
+Data Scientist with a robust background in e-commerce and expertise in leveraging SQL and Python for in-depth data analysis. Specializes in machine learning, particularly in natural language processing, to extract actionable insights from vast data sets. Former architect with a proven record of successful project management and problem-solving, adept at communicating complex data to diverse audiences. Excels in a collaborative environment, consistently delivering results in high-pressure situations.
 
 BIO
 
