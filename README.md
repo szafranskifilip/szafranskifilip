@@ -1,11 +1,11 @@
 ### Filip Szafranski👋
 
-􏰹􏰂􏰧􏰂 􏰢􏰏􏰇􏰭􏰅􏰧􏰇􏰀􏰧 􏰴􏰇􏰧􏰨 􏰭􏱀􏰧􏰭􏰅􏰀􏰇􏰼􏰭 􏰭􏱀􏰊􏰭􏰄􏰇􏰭􏰅􏰏􏰭 􏰇􏰅 􏰭􏰕􏰏􏰐􏰍􏰍􏰭􏰄􏰏􏰭 􏰂􏰅􏰩 􏰂 􏰀􏰊􏰭􏰏􏰇􏰂􏰉􏰇􏰁􏰂􏰧􏰇􏰐􏰅 􏰇􏰅 􏰧􏰨􏰭 􏰩􏰭􏰼􏰭􏰉􏰐􏰊􏰍􏰭􏰅􏰧 􏰐􏰃 􏰡􏰂􏰄􏰌􏰭 􏰡􏰂􏰅􏰌􏰪􏰂􏰌􏰭 􏰫􏰐􏰩􏰭􏰉􏰀 􏱁􏰡􏰡􏰫􏰀􏱂􏰎 􏰥􏰄􏰐􏰈􏰏􏰇􏰭􏰅􏰧 􏰇􏰅 􏰢􏰰􏰡􏱃 􏰥􏰦􏰧􏰨􏰐􏰅􏱃 􏰂􏰅􏰩 􏰂 􏰄􏰂􏰅􏰌􏰭 􏰐􏰃 􏰩􏰂􏰧􏰂 􏰼􏰇􏰀􏰪􏰂􏰉􏰇􏰁􏰂􏰧􏰇􏰐􏰅 􏰂􏰅􏰩 􏰍􏰂􏰏􏰨􏰇􏰅􏰭 􏰉􏰭􏰂􏰄􏰅􏰇􏰅􏰌 􏰧􏰐􏰐􏰉􏰀􏰎 􏰹􏰭􏰍􏰐􏰅􏰀􏰧􏰄􏰂􏰧􏰭􏰩 􏰭􏱀􏰊􏰭􏰄􏰧􏰇􏰀􏰭 􏰇􏰅 􏰭􏰅􏰨􏰂􏰅􏰏􏰇􏰅􏰌 􏰬􏰪􏰀􏰇􏰅􏰭􏰀􏰀 􏰇􏰅􏰧􏰭􏰉􏰉􏰇􏰌􏰭􏰅􏰏􏰭􏱃 􏰇􏰍􏰊􏰄􏰐􏰼􏰇􏰅􏰌 􏰐􏰊􏰭􏰄􏰂􏰧􏰇􏰐􏰅􏰂􏰉 􏰭􏱄􏰏􏰇􏰭􏰅􏰏􏰦􏱃 􏰂􏰅􏰩 􏰉􏰭􏰂􏰩􏰇􏰅􏰌 􏰇􏰅􏰅􏰐􏰼􏰂􏰧􏰇􏰼􏰭 􏰠􏰟 􏰊􏰄􏰐􏰻􏰭􏰏􏰧􏰀􏰎 􏰷􏰂􏰏􏰆􏰌􏰄􏰐􏰪􏰅􏰩 􏰇􏰅 􏰂􏰄􏰏􏰨􏰇􏰧􏰭􏰏􏰧􏰪􏰄􏰭 􏰴􏰇􏰧􏰨 􏰭􏱀􏰏􏰭􏰊􏰧􏰇􏰐􏰅􏰂􏰉 􏰊􏰄􏰐􏰻􏰭􏰏􏰧 􏰍􏰂􏰅􏰂􏰌􏰭􏰍􏰭􏰅􏰧􏱃 􏰊􏰄􏰐􏰬􏰉􏰭􏰍􏰕􏰀􏰐􏰉􏰼􏰇􏰅􏰌􏱃 􏰂􏰅􏰩 􏰏􏰐􏰍􏰍􏰪􏰅􏰇􏰏􏰂􏰧􏰇􏰐􏰅 􏰀􏰆􏰇􏰉􏰉􏰀􏰎
+Data Scientist with extensive experience in e-commerce and a specialization in the development of Large Language Models (LLMs). Proficient in SQL, Python, and a range of data visualization and machine learning tools. 
+Demonstrated expertise in enhancing business intelligence, improving operational efficiency, and leading innovative AI projects. Background in architecture with exceptional project management, problem-solving, and communication skills. 
 
-- 🔭 I’m currently working on Natural Language Processing and Sentiment Analysis.
-- 🌱 I’m currently learning Time Series
+- 🔭 I’m currently working on GenAi projects.
+- 🌱 I’m currently learning RAGs and Agents.
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with NLP tasks.
 - 💬 Ask me about machine learning and deep learning.
 - 📫 How to reach me: szafranskifilip(at)gmail.com
 - ⚡ Fun fact: I love surfing.
