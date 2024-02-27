@@ -10,7 +10,7 @@ Demonstrated expertise in enhancing business intelligence, improving operational
 - 📫 How to reach me: szafranskifilip(at)gmail.com
 - ⚡ Fun fact: I love surfing.
 
-[![Linkedin: Filip](https://img.shields.io/badge/-Filip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/szafranskifilip/](https://www.linkedin.com/in/szafranskifilip/))]([https://www.linkedin.com/in/szafranskifili/](https://www.linkedin.com/in/szafranskifilip/))
+[![Linkedin: Filip](https://img.shields.io/badge/-Filip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/szafranskifilip/](https://www.linkedin.com/in/szafranskifilip/)](https://www.linkedin.com/in/szafranskifilip/))]([https://www.linkedin.com/in/szafranskifili/](https://www.linkedin.com/in/szafranskifilip/))
 [![GitHub Filip](https://img.shields.io/github/followers/szafranskifilip?label=follow&style=social)](https://github.com/szafranskifilip)
 <!--
 **szafranskifilip/szafranskifilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
