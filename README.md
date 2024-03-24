@@ -1,7 +1,6 @@
 ### Filip Szafranski👋
 
-Data Scientist with extensive experience in e-commerce and a specialization in the development of Large Language Models (LLMs). Proficient in SQL, Python, and a range of data visualization and machine learning tools. 
-Demonstrated expertise in enhancing business intelligence, improving operational efficiency, and leading innovative AI projects. Background in architecture with exceptional project management, problem-solving, and communication skills. 
+Data Scientist with experience in e-commerce and development of applications, leveraging Large Language Models (LLMs). Proficient in SQL, Python, Git, along with various data visualization and machine learning tools. Demonstrated expertise in enhancing business intelligence and leading innovative AI projects. Equipped with exceptional project management, problem-solving, and communication skills, and an adept understanding of DevOps practices, including Git for version control and collaboration. Ensures streamlined deployment and production processes through these skills.
 
 - 🔭 I’m currently working on GenAi projects.
 - 🌱 I’m currently learning RAGs and Agents.
