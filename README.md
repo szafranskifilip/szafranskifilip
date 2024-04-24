@@ -1,6 +1,6 @@
 ### Filip Szafranski👋
 
-Experienced Data Scientist with over 2 years of expertise in leveraging advanced data science and machine learning techniques to drive business decisions. Highly skilled in developing AI-powered products using Large Language Models (LLMs) and LangChain. Proficient in Python, SQL, and Git, as well as various data visualization tools and machine learning platforms, including PyTorch and TensorFlow. Demonstrated expertise in enhancing business intelligence through innovative AI projects and operationalizing machine learning models into scalable and resilient production systems. Equipped with a robust background in project management and problem-solving, complemented by a strong command of DevOps practices such as version control and collaborative workflows.
+Experienced Data Scientist with over 2 years of expertise in leveraging advanced data science and machine learning techniques to drive business decisions. Highly skilled in developing AI-powered products using Large Language Models (LLMs) and LangChain. Proficient in Python, SQL, and Git, as well as various data visualization tools and machine learning tools, including TensorFlow. Demonstrated expertise in enhancing business intelligence through innovative AI projects. Equipped with a robust background in project management and problem-solving, complemented by strong skills in DevOps practices such as version control and collaborative workflows. U.S. lawful permanent resident.
 
 - 🔭 I’m currently working on GenAi projects.
 - 🌱 I’m currently learning RAGs and Agents.
